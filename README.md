@@ -13,7 +13,8 @@ The workflow includes data verification, cleaning, exploratory analysis, correla
 
 ## Quick View
 
-- Open the rendered notebook directly: [`pga_tour_analysis.html`](./pga_tour_analysis.html)
+- Open the rendered notebook on GitHub Pages: [PGA Tour Analysis (Live)](https://clintbaker.github.io/pga-tour-analysis/pga_tour_analysis.html)
+- Local HTML file (in this repo): [`pga_tour_analysis.html`](./pga_tour_analysis.html)
 
 ## Key Findings
 
