@@ -11,10 +11,13 @@ This notebook analyzes PGA Tour tournament-level player performance data to answ
 
 The workflow includes data verification, cleaning, exploratory analysis, correlation analysis, and simple regression-based modeling.
 
+![Project Overview](./project-overview.png)
+
 ## Quick View
 
 - Open the rendered notebook on GitHub Pages: [PGA Tour Analysis (Live)](https://clintbaker.github.io/pga-tour-analysis/pga_tour_analysis.html)
 - Local HTML file (in this repo): [`pga_tour_analysis.html`](./pga_tour_analysis.html)
+- Video overview: [Watch on YouTube](https://youtu.be/UdU8GI5tV3o?si=yqMmqZAK1tm9m36d)
 
 ## Key Findings
 
